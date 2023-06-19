@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9d410bad8f6004b8b3598c1a769509, type: 3}
+  m_Name: ColorBindings
+  m_EditorClassIdentifier: 
+  group1Color: {r: 0.412, g: 0.824, b: 0.906, a: 1}
+  group2Color: {r: 0.878, g: 0.894, b: 0.8, a: 1}
+  group3Color: {r: 0.98, g: 0.412, b: 0, a: 1}
